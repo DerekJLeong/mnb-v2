@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mnb-v2/static/css/main.9efefda6.chunk.css",
+    "main.js": "/mnb-v2/static/js/main.0496fdb6.chunk.js",
+    "main.js.map": "/mnb-v2/static/js/main.0496fdb6.chunk.js.map",
+    "runtime~main.js": "/mnb-v2/static/js/runtime~main.de795a5e.js",
+    "runtime~main.js.map": "/mnb-v2/static/js/runtime~main.de795a5e.js.map",
+    "static/js/2.9268348a.chunk.js": "/mnb-v2/static/js/2.9268348a.chunk.js",
+    "static/js/2.9268348a.chunk.js.map": "/mnb-v2/static/js/2.9268348a.chunk.js.map",
+    "index.html": "/mnb-v2/index.html",
+    "precache-manifest.64d2d22bd514c5f8f116cc21db5a5e13.js": "/mnb-v2/precache-manifest.64d2d22bd514c5f8f116cc21db5a5e13.js",
+    "service-worker.js": "/mnb-v2/service-worker.js",
+    "static/css/main.9efefda6.chunk.css.map": "/mnb-v2/static/css/main.9efefda6.chunk.css.map",
+    "static/media/home.css": "/mnb-v2/static/media/vacuum_therapy.bec011a5.png",
+    "static/media/facebook-logo.svg": "/mnb-v2/static/media/facebook-logo.c2157f79.svg",
+    "static/media/instagram-logo.svg": "/mnb-v2/static/media/instagram-logo.94209b2b.svg",
+    "static/media/mnb_logo.png": "/mnb-v2/static/media/mnb_logo.ddc07b6f.png",
+    "static/media/reviews.css": "/mnb-v2/static/media/reviews-bottom.8ddc01c9.svg",
+    "static/media/youtube-logo.svg": "/mnb-v2/static/media/youtube-logo.11c4dec5.svg"
+  }
+}
