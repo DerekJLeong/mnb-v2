@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "www.missnewbootyla.co/static/css/main.07fd779d.chunk.css",
-    "main.js": "www.missnewbootyla.co/static/js/main.19e7380f.chunk.js",
-    "main.js.map": "www.missnewbootyla.co/static/js/main.19e7380f.chunk.js.map",
-    "runtime~main.js": "www.missnewbootyla.co/static/js/runtime~main.462336b0.js",
-    "runtime~main.js.map": "www.missnewbootyla.co/static/js/runtime~main.462336b0.js.map",
-    "static/js/2.9268348a.chunk.js": "www.missnewbootyla.co/static/js/2.9268348a.chunk.js",
-    "static/js/2.9268348a.chunk.js.map": "www.missnewbootyla.co/static/js/2.9268348a.chunk.js.map",
-    "index.html": "www.missnewbootyla.co/index.html",
-    "precache-manifest.a2bfb7eef2bc1572bf7b5441eeaa8fe5.js": "www.missnewbootyla.co/precache-manifest.a2bfb7eef2bc1572bf7b5441eeaa8fe5.js",
-    "service-worker.js": "www.missnewbootyla.co/service-worker.js",
-    "static/css/main.07fd779d.chunk.css.map": "www.missnewbootyla.co/static/css/main.07fd779d.chunk.css.map",
-    "static/media/home.css": "www.missnewbootyla.co/static/media/vacuum_therapy.bec011a5.png",
-    "static/media/facebook-logo.svg": "www.missnewbootyla.co/static/media/facebook-logo.c2157f79.svg",
-    "static/media/instagram-logo.svg": "www.missnewbootyla.co/static/media/instagram-logo.94209b2b.svg",
-    "static/media/mnb_logo.png": "www.missnewbootyla.co/static/media/mnb_logo.ddc07b6f.png",
-    "static/media/reviews.css": "www.missnewbootyla.co/static/media/reviews-bottom.8ddc01c9.svg",
-    "static/media/youtube-logo.svg": "www.missnewbootyla.co/static/media/youtube-logo.11c4dec5.svg"
+    "main.css": "/mnb-v2/static/css/main.9efefda6.chunk.css",
+    "main.js": "/mnb-v2/static/js/main.0496fdb6.chunk.js",
+    "main.js.map": "/mnb-v2/static/js/main.0496fdb6.chunk.js.map",
+    "runtime~main.js": "/mnb-v2/static/js/runtime~main.de795a5e.js",
+    "runtime~main.js.map": "/mnb-v2/static/js/runtime~main.de795a5e.js.map",
+    "static/js/2.9268348a.chunk.js": "/mnb-v2/static/js/2.9268348a.chunk.js",
+    "static/js/2.9268348a.chunk.js.map": "/mnb-v2/static/js/2.9268348a.chunk.js.map",
+    "index.html": "/mnb-v2/index.html",
+    "precache-manifest.64d2d22bd514c5f8f116cc21db5a5e13.js": "/mnb-v2/precache-manifest.64d2d22bd514c5f8f116cc21db5a5e13.js",
+    "service-worker.js": "/mnb-v2/service-worker.js",
+    "static/css/main.9efefda6.chunk.css.map": "/mnb-v2/static/css/main.9efefda6.chunk.css.map",
+    "static/media/home.css": "/mnb-v2/static/media/vacuum_therapy.bec011a5.png",
+    "static/media/facebook-logo.svg": "/mnb-v2/static/media/facebook-logo.c2157f79.svg",
+    "static/media/instagram-logo.svg": "/mnb-v2/static/media/instagram-logo.94209b2b.svg",
+    "static/media/mnb_logo.png": "/mnb-v2/static/media/mnb_logo.ddc07b6f.png",
+    "static/media/reviews.css": "/mnb-v2/static/media/reviews-bottom.8ddc01c9.svg",
+    "static/media/youtube-logo.svg": "/mnb-v2/static/media/youtube-logo.11c4dec5.svg"
   }
 }
