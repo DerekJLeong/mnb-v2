@@ -1,8 +1,13 @@
 import React, { Component } from "react";
+import "./services.css";
 
 class Services extends React.Component {
    render() {
-      return <h1>This is the Services Panel</h1>;
+      return (
+         <div className="services_container">
+            <div className="services_image" />
+         </div>
+      );
    }
 }
 export default Services;

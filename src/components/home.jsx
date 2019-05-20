@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import Footer from "./footer.jsx";
 import "./home.css";
 
 class Home extends React.Component {
@@ -51,7 +50,6 @@ class Home extends React.Component {
                   <h3>MORE SERVICES</h3>
                </Link>
             </div>
-            <Footer />
          </section>
       );
    }

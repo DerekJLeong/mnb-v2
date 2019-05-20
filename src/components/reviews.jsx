@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Footer from "./footer.jsx";
 import "./reviews.css";
 
 class Reviews extends React.Component {
@@ -64,7 +63,6 @@ class Reviews extends React.Component {
             <div className="reviews_bottom_container">
                <div className="reviews_bottom_image" />
             </div>
-            <Footer />
          </section>
       );
    }

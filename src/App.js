@@ -6,7 +6,7 @@ import Merchandise from "./components/merchandise.jsx";
 import Reviews from "./components/reviews.jsx";
 import Gallery from "./components/gallery.jsx";
 import Contact from "./components/contact.jsx";
-import logo from "./components/images/mnb_logo.png";
+import Footer from "./components/footer.jsx";
 import "./App.css";
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
       <HashRouter basename="/">
          <div className="page_container">
             <header>
-               <img src={logo} alt="Miss New Booty Logo" />
+               <div className="header_logo" />
                <nav>
                   <NavLink exact to="/">
                      Home
@@ -34,6 +34,7 @@ function App() {
             <Route path="/reviews" component={Reviews} />
             <Route path="/gallery" component={Gallery} />
             <Route path="/contact" component={Contact} />
+            <Footer />
          </div>
       </HashRouter>
    );

@@ -1,0 +1,22 @@
+.services_container {
+   width: 100%;
+   height: auto;
+}
+.services_image {
+   width: 100vw;
+   height: 146vw;
+   background: url("./images/Service.svg") no-repeat;
+   background-size: 100% auto;
+}
+
+@media only screen and (min-width: 1024px) {
+   .services_container {
+      margin: 0 10vw;
+   }
+   .services_image {
+      width: 80vw;
+      height: 115vw;
+      background: url("./images/Service.svg") no-repeat;
+      background-size: 100% auto;
+   }
+}
