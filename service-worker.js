@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "www.missnewbootyla.co/precache-manifest.a2bfb7eef2bc1572bf7b5441eeaa8fe5.js"
+  "www.missnewbootyla.co/precache-manifest.a5d01eddfec2114647bf1066443fb24a.js"
 );
 
 self.addEventListener('message', (event) => {

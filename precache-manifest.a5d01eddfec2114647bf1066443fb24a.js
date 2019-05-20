@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2a33261a2543ce8eed83f6eee058545",
+    "revision": "73f77c50f278366cf3088ffffd31c1e9",
     "url": "www.missnewbootyla.co/index.html"
   },
   {
-    "revision": "3923ff536e46218be5a7",
-    "url": "www.missnewbootyla.co/static/css/main.07fd779d.chunk.css"
+    "revision": "549f8da544e5b18e272c",
+    "url": "www.missnewbootyla.co/static/css/main.3958b5ff.chunk.css"
   },
   {
-    "revision": "294ca7fa186e13758c72",
-    "url": "www.missnewbootyla.co/static/js/2.9268348a.chunk.js"
+    "revision": "c9cf5d081b15f54fc9e7",
+    "url": "www.missnewbootyla.co/static/js/2.d42b583a.chunk.js"
   },
   {
-    "revision": "3923ff536e46218be5a7",
-    "url": "www.missnewbootyla.co/static/js/main.19e7380f.chunk.js"
+    "revision": "549f8da544e5b18e272c",
+    "url": "www.missnewbootyla.co/static/js/main.f6b2d414.chunk.js"
   },
   {
     "revision": "326ad8e45f0560f39f4e",
     "url": "www.missnewbootyla.co/static/js/runtime~main.462336b0.js"
+  },
+  {
+    "revision": "c7d91a9dc60044e83ca1c2a659b2b591",
+    "url": "www.missnewbootyla.co/static/media/Service.c7d91a9d.svg"
   },
   {
     "revision": "38ef23497cccb45c4c1e5ef8c7eb9545",
